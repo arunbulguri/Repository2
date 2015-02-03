@@ -1,0 +1,10 @@
+1)      Sub version tools like  Git & SVN
+2)      Build tools like maven and gradle
+3)      Automation coding using selenium and java
+4)      Debugging the written code
+5)      Basics of object class mapping in Java and routing to the respective methods.
+6)      One or two scenarios automation to be done on application to get hands on using Java + selenium.
+7)      Handle Ajax request and response with selenium and java
+8)      Rest client usage
+9)      Continuous integration tool like jenkins
+10       Intro Spring Rest Web services.
